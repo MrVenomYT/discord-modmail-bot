@@ -25,3 +25,6 @@ ___
 
 # SUPPORT SERVER
 ![](https://discord.gg/7UYtE8NuhR)
+
+# Support Our Patreons
+[Patreons](https://www.patreon.com/DevVenom)
