@@ -31,3 +31,5 @@ ___
 
 ## Run It on replit
 [replit](https://www.replit.com)
+
+# ```Donot run it on glitch```
