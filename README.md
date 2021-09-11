@@ -33,3 +33,6 @@ ___
 [replit](https://www.replit.com)
 
 # ```Donot run it on glitch```
+
+
+We Hope you like our bot
