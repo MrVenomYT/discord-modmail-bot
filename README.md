@@ -24,4 +24,4 @@ ___
 
 
 # SUPPORT SERVER
-![] (https://discord.gg/FTbJmrVq5t)
+![](https://discord.gg/7UYtE8NuhR)
